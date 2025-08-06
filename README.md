@@ -5,7 +5,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renukacsit&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasitha-Voruganti&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Voruganti&layout=compact)
 ## 📫 Connect with Me- ✉️ Email: 2410hasitha@gmail.com- 🔗 LinkedIn: (https://www.linkedin.com/in/hasitha-voruganti-a7168a2b8)
 
