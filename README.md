@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Hasitha
 I’m a Computer Science student from Hyderabad, passionate about AIML,data science,data analytics and full stack development.I enjoy designing end-to-end applications that solve real-world problems, transforming raw data into meaningful insights, and building predictive models that drive intelligent decision-making.
-## 🌱 I’m currently learning advanced Machine Learning concepts.
-## 🤝 I’m looking to collaborate on open-source and innovative software projects.
-## 📫 How to reach me: hasithavoruganti@gmail.com
+# 🌱 I’m currently learning advanced Machine Learning concepts.
+# 🤝 I’m looking to collaborate on open-source and innovative software projects.
+# 📫 How to reach me: hasithavoruganti@gmail.com
 
 ## 🛠️ Skills & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
