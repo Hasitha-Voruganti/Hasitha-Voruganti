@@ -18,8 +18,8 @@ I’m a Computer Science student from Hyderabad, passionate about AIML,data scie
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasitha-Voruganti&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Voruganti&layout=compact)
 ## 📫 Connect with Me
-##✉️ Email: hasithavoruganti@gmail.com- 
-##🔗 LinkedIn: (https://www.linkedin.com/in/hasitha-voruganti-a7168a2b8)
+✉️ Email: hasithavoruganti@gmail.com<br>
+🔗 LinkedIn: (https://www.linkedin.com/in/hasitha-voruganti-a7168a2b8)
 
 
 <!--
