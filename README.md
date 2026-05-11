@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d3b8c&height=200&section=header&text=HASITHA%20VORUGANTI&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descColor=8b949e&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d3b8c&height=200&section=header&text=HASITHA%20VORUGANTI&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descColor=8b949e&animation=fadeIn" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasitha-voruganti-a7168a2b8)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasithavoruganti@gmail.com)
+[![Gmail](https://img.shields.io/badge/hasithavoruganti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasithavoruganti@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Voruganti)
 
 </div>
@@ -14,11 +14,13 @@
 
 ## 👋 Hi, I'm Hasitha
 
-I'm a Computer Science student from Hyderabad with a passion for building **intelligent, end-to-end systems** that go beyond notebooks and prototypes. I enjoy taking a problem all the way — from raw, messy data to a working, deployed application that makes real decisions.
+I'm a Computer Science student from Hyderabad who loves building things that are actually useful — not just impressive on paper.
 
-My interests sit at the intersection of **Machine Learning**, **Data Science**, and **Full Stack Development**. Whether that's designing an agentic RAG pipeline with hybrid search and self-correcting reasoning, training ML models with SHAP explainability, or building interactive dashboards that turn numbers into narratives — I care about the full picture.
+My focus is on the full journey from raw data to real impact. That means designing **AI systems that reason and retrieve**, training **ML models that explain their decisions**, writing **SQL that extracts intelligence from millions of records**, and shipping **full-stack applications** that make all of it accessible to real users.
 
-I'm currently deepening my expertise in **advanced ML concepts and LLM systems**, and I'm always looking for interesting problems to solve and open-source projects to contribute to.
+What gets me excited is when multiple disciplines collide — when a well-designed database powers a machine learning pipeline, which feeds a React dashboard, which sits on top of a FastAPI backend with an LLM agent running in the middle. I build across that entire stack, and I care deeply about every layer.
+
+I'm currently deepening my expertise in **advanced Machine Learning and large language model systems**, and I'm always looking for interesting open-source problems to contribute to.
 
 > 💡 *"Don't just analyze data — build systems that act on it."*
 
@@ -31,7 +33,7 @@ I'm currently deepening my expertise in **advanced ML concepts and LLM systems**
 ### 🧠 [Corporate Brain — Agentic RAG Knowledge Assistant](https://github.com/Hasitha-Voruganti)
 > *Enterprise AI that reads your company's documents — and actually understands them*
 
-Most enterprise search is dumb keyword matching. Corporate Brain is different: a **self-correcting AI agent** that plans its retrieval strategy, fuses semantic and keyword search, verifies its own confidence, and rewrites queries when uncertain — all enforced with role-based access controls per employee.
+Most enterprise search is just keyword matching. Corporate Brain is an AI **agent** — it plans how to search, fuses semantic understanding with keyword precision, checks its own confidence, and rewrites its approach when uncertain. Every query is filtered through role-based access so employees only see what they're allowed to.
 
 | Layer | What it does |
 |-------|-------------|
@@ -49,13 +51,13 @@ Most enterprise search is dumb keyword matching. Corporate Brain is different: a
 ### 📚 [AI Study Assistant](https://github.com/Hasitha-Voruganti)
 > *Your intelligent exam companion — upload, ask, quiz, master*
 
-Transforms static PDFs into an active, adaptive learning experience. The AI doesn't just answer questions — it identifies your weak spots and drills you on them before your exam does.
+Transforms static PDFs into an active, adaptive learning experience. The AI doesn't just answer questions — it finds your weak spots and trains you on them before your exam does.
 
-- 🤖 **Contextual Q&A** — context-aware answers sourced directly from your documents
-- 📝 **Smart quiz engine** — auto-generated MCQs at Easy / Medium / Hard / Mixed difficulty
+- 🤖 **Contextual Q&A** — accurate answers sourced directly from your uploaded documents
+- 📝 **Smart quiz engine** — auto-generated MCQs across Easy / Medium / Hard / Mixed difficulty
 - 🃏 **Flashcard system** — AI-created cards with Mastered vs Needs Revision tracking
-- 🎯 **Weakness detection** — automatically flags topics where performance drops below 60%
-- 📊 **Progress dashboard** — score trends, subject distribution, and streak tracking
+- 🎯 **Weakness detection** — flags topics where your quiz scores fall below 60%
+- 📊 **Progress dashboard** — score trends, subject breakdown, and streak tracking
 
 `React` `Node.js` `MongoDB` `Express` `TailwindCSS` `Groq LLaMA 3`
 
@@ -64,7 +66,7 @@ Transforms static PDFs into an active, adaptive learning experience. The AI does
 ### 📉 [Employee Attrition Intelligence System](https://github.com/Hasitha-Voruganti)
 > *Know who's about to quit — before they hand in their notice*
 
-A full production-grade ML platform that predicts employee attrition with automated model selection, SHAP explainability, and a 7-page React analytics dashboard. Trained and evaluated on the real **IBM HR Analytics dataset (1,470 employees)**.
+A production-grade ML platform that predicts employee attrition with automated model selection, SHAP explainability, and a 7-page React analytics dashboard — trained on the real **IBM HR Analytics dataset (1,470 employees)**.
 
 | Rank | Model | ROC-AUC | F1 Score | Accuracy |
 |------|-------|---------|----------|----------|
@@ -85,12 +87,12 @@ A full production-grade ML platform that predicts employee attrition with automa
 ### 📊 [DataMind — AI Data Analyst](https://github.com/Hasitha-Voruganti)
 > *Upload any dataset. Ask questions. Get intelligence. No data science degree required.*
 
-DataMind democratizes data analysis. Upload a messy real-world file in any format, ask questions in plain English, and watch an AI-powered analyst automatically clean, visualize, and explain your data — all in one platform.
+DataMind makes data analysis accessible. Upload any messy file, describe what you want to know in plain English, and the platform automatically cleans your data, builds visualisations, and explains the results — no code required.
 
 - 📁 **Universal ingestion** — CSV, Excel, JSON, TSV, Parquet all supported
-- 🧹 **One-click cleaning** — intelligently resolves nulls, duplicates, and outliers
+- 🧹 **One-click cleaning** — resolves nulls, duplicates, and outliers automatically
 - 📈 **6 interactive chart types** + correlation heatmap with drill-down controls
-- 🤖 **Conversational AI** — LLaMA 3.1-powered chat for natural language analysis queries
+- 🤖 **Conversational AI** — LLaMA 3.1-powered chat for natural language data queries
 - ⚡ **6 quick-action prompts** for instant common insights
 - 💾 **Export** cleaned datasets as ready-to-use CSV
 
@@ -99,13 +101,13 @@ DataMind democratizes data analysis. Upload a messy real-world file in any forma
 ---
 
 ### ❤️ [Heart Disease Prediction App](https://github.com/Hasitha-Voruganti)
-> *Clinical-grade risk scoring — interactive and deployed*
+> *Clinical-grade risk scoring — deployed and interactive*
 
-An SVM-powered web application that assesses heart disease likelihood from patient vitals, with a live visual risk gauge for clear, actionable output — accessible to non-specialists.
+An SVM-powered web app that assesses heart disease likelihood from patient vitals, with a live visual risk gauge designed to be understood by anyone — not just clinicians.
 
-- SVM classifier on Kaggle Heart Failure dataset (Age, Cholesterol, ECG, ST Slope & more)
+- SVM classifier on the Kaggle Heart Failure dataset (Age, Cholesterol, ECG, ST Slope & more)
 - Dynamic **Low / Medium / High** risk gauge updating in real time
-- Full clinical label descriptions — usable without a medical background
+- Full clinical label descriptions written for non-specialist users
 
 `Python` `Scikit-learn (SVM)` `Streamlit` `Plotly` `Pandas`
 
@@ -114,9 +116,9 @@ An SVM-powered web application that assesses heart disease likelihood from patie
 ### 🏥 [AI Obesity Level Prediction System](https://github.com/Hasitha-Voruganti)
 > *Preventive healthcare intelligence — built in R, deployed to the cloud*
 
-An R-based ML web app that assesses obesity risk from lifestyle habits in real time. Deployed on **ShinyApps.io** for zero-install access anywhere.
+An R-based ML web app that assesses obesity risk from lifestyle habits in real time. Deployed on **ShinyApps.io** for zero-install access.
 
-- Naive Bayes classifier on eating habits, activity levels, and physical metrics
+- Naive Bayes classifier trained on eating habits, activity levels, and physical metrics
 - Real-time BMI calculation with personalised health recommendations
 - Fully interactive Shiny dashboard with live prediction updates
 
@@ -131,7 +133,7 @@ A three-stage analytics pipeline across ~3,900 customer records — uncovering s
 
 `Python (Pandas)` → data cleaning & feature engineering → `MySQL` → SQL business analysis → `Power BI` → interactive dashboard
 
-`Pandas` `MySQL` `Power BI` `Data Storytelling`
+`Pandas` `MySQL` `Power BI`
 
 ---
 
@@ -152,9 +154,9 @@ A three-stage analytics pipeline across ~3,900 customer records — uncovering s
 ### 🔍 [Customer Review Analytics — Pure SQL](https://github.com/Hasitha-Voruganti)
 > *100K+ Amazon reviews → product intelligence — entirely inside MySQL*
 
-Proves a well-architected SQL schema can handle the full lifecycle of sentiment analysis and fraud detection — no Python, no ML frameworks. Just SQL, done seriously.
+No Python. No ML frameworks. Just SQL, used seriously — covering the full pipeline from raw text ingestion to sentiment scoring, fake review detection, and business reporting.
 
-- **Custom 50-word sentiment lexicon** (-3 to +3 tiered scoring)
+- **Custom 50-word sentiment lexicon** with -3 to +3 tiered scoring
 - **Fake review detection** via star-rating vs. text-sentiment mismatch flagging
 - **5 analytical views** forming a complete business reporting layer
 - **12 insight queries** — rolling 3-month averages, YoY sentiment shifts, category health
@@ -205,9 +207,15 @@ Proves a well-architected SQL schema can handle the full lifecycle of sentiment 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasitha-Voruganti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hasitha-Voruganti&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Hasitha-Voruganti)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Hasitha-Voruganti&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hasitha-Voruganti&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/Hasitha-Voruganti)
+
+<br/>
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Hasitha-Voruganti&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/Hasitha-Voruganti)
 
 </div>
 
@@ -217,7 +225,7 @@ Proves a well-architected SQL schema can handle the full lifecycle of sentiment 
 
 <div align="center">
 
-I'm always open to interesting problems, research discussions, and open-source collaborations.<br/>
+Always open to interesting problems, research discussions, and open-source collaborations.<br/>
 If you're building something ambitious in AI/ML — let's talk.
 
 <br/>
