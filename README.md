@@ -157,11 +157,18 @@ No Python. No ML frameworks. Just SQL used seriously — covering the full pipel
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hasitha-Voruganti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05cd5&icon_color=58a6ff&text_color=c9d1d9&ring_color=e05cd5" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Voruganti&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05cd5&text_color=c9d1d9" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-stats-alpha.vercel.app/api?username=Hasitha-Voruganti&cc=0d1117&tc=58a6ff&ic=e05cd5&bc=0d1117" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Voruganti&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05cd5&text_color=c9d1d9&langs_count=6" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=Hasitha-Voruganti&theme=tokyonight&hide_border=true&background=0d1117&ring=e05cd5&fire=e05cd5&currStreakLabel=58a6ff" />
 
