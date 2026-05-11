@@ -161,12 +161,10 @@ No Python. No ML frameworks. Just SQL used seriously — covering the full pipel
 
 <br/><br/>
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasitha-Voruganti&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Voruganti&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Hasitha-Voruganti&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hasitha-Voruganti&layout=compact&theme=tokyonight)
 </div>
 
 ---
