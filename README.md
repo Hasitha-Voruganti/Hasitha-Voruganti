@@ -161,7 +161,13 @@ No Python. No ML frameworks. Just SQL used seriously — covering the full pipel
 
 <br/><br/>
 
-<img src="https://github-widgetbox.vercel.app/api/languages?username=Hasitha-Voruganti&theme=nautilus&langs_count=8" />
+# 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hasitha-Voruganti&show_icons=true&theme=radical" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Voruganti&layout=compact&theme=radical" />
+</p>
 
 </div>
 
