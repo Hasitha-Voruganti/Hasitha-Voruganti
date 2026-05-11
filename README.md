@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d3b8c&height=200&section=header&text=HASITHA%20VORUGANTI&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descColor=8b949e&animation=fadeIn" />
-
-### `Building intelligent systems. Turning raw data into real decisions.`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d3b8c&height=200&section=header&text=HASITHA%20VORUGANTI&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descColor=8b949e&animation=fadeIn" />
 
 <br/>
 
@@ -14,34 +12,15 @@
 
 ---
 
-<div align="center">
+## 👋 Hi, I'm Hasitha
 
-```python
-class Hasitha:
-    location     = "Hyderabad, India 🇮🇳"
-    education    = "B.Tech Computer Science"
-    focus        = ["AI/ML", "Data Science", "Data Analytics", "Full Stack Dev"]
-    currently    = "Deepening expertise in advanced Machine Learning & LLM systems"
-    open_to      = "Open-source collaborations & innovative AI projects"
-    philosophy   = "Don't just analyze data — build systems that act on it"
-```
+I'm a Computer Science student from Hyderabad with a passion for building **intelligent, end-to-end systems** that go beyond notebooks and prototypes. I enjoy taking a problem all the way — from raw, messy data to a working, deployed application that makes real decisions.
 
-</div>
+My interests sit at the intersection of **Machine Learning**, **Data Science**, and **Full Stack Development**. Whether that's designing an agentic RAG pipeline with hybrid search and self-correcting reasoning, training ML models with SHAP explainability, or building interactive dashboards that turn numbers into narratives — I care about the full picture.
 
----
+I'm currently deepening my expertise in **advanced ML concepts and LLM systems**, and I'm always looking for interesting problems to solve and open-source projects to contribute to.
 
-## 👨‍💻 About Me
-
-I'm a Computer Science student from Hyderabad with a genuine passion for building **end-to-end intelligent systems** — not just notebooks, but production-ready platforms that ingest raw data, reason over it, and deliver real decisions.
-
-My work spans the full AI pipeline: designing **agentic RAG architectures** with hybrid search and self-correcting reasoning loops, building ML models with SHAP explainability, shipping interactive analytics dashboards, and developing full-stack AI-powered web applications.
-
-What drives me is the intersection of **intelligence and utility** — AI that doesn't just impress on paper, but genuinely solves problems people face.
-
-- 🤖 **AI/ML** — RAG systems, LLM integration, classification, NLP, explainability
-- 📊 **Data Science** — end-to-end pipelines, feature engineering, model evaluation
-- 📈 **Analytics** — advanced SQL, Power BI dashboards, business intelligence
-- 🌐 **Full Stack** — React + FastAPI, Docker deployments, REST APIs
+> 💡 *"Don't just analyze data — build systems that act on it."*
 
 ---
 
@@ -64,22 +43,6 @@ Most enterprise search is dumb keyword matching. Corporate Brain is different: a
 | 📄 **Ingestion** | PDF, DOCX, XLSX, PPTX, TXT + OCR fallback via Tesseract |
 
 `FastAPI` `React` `Qdrant` `Elasticsearch` `PostgreSQL` `Redis` `Groq LLaMA 3.1` `Docker`
-
----
-
-### 📊 [DataMind — AI Data Analyst](https://github.com/Hasitha-Voruganti)
-> *Upload any dataset. Ask questions. Get intelligence. No data science degree required.*
-
-DataMind democratizes data analysis. Upload a messy real-world file in any format, ask questions in plain English, and watch an AI-powered analyst automatically clean, visualize, and explain your data — all in one platform.
-
-- 📁 **Universal ingestion** — CSV, Excel, JSON, TSV, Parquet all supported
-- 🧹 **One-click cleaning** — intelligently resolves nulls, duplicates, and outliers
-- 📈 **6 interactive chart types** + correlation heatmap with drill-down controls
-- 🤖 **Conversational AI** — LLaMA 3.1-powered chat for natural language analysis queries
-- ⚡ **6 quick-action prompts** for instant common insights
-- 💾 **Export** cleaned datasets as ready-to-use CSV
-
-`FastAPI` `Pandas` `NumPy` `React 18` `Vite` `Chart.js` `Framer Motion` `Groq AI`
 
 ---
 
@@ -116,6 +79,22 @@ A full production-grade ML platform that predicts employee attrition with automa
 **16 FastAPI endpoints** | **7-page React SPA** | Real-time attrition gauge & HR risk recommendations
 
 `XGBoost` `LightGBM` `SHAP` `FastAPI` `React` `Scikit-learn`
+
+---
+
+### 📊 [DataMind — AI Data Analyst](https://github.com/Hasitha-Voruganti)
+> *Upload any dataset. Ask questions. Get intelligence. No data science degree required.*
+
+DataMind democratizes data analysis. Upload a messy real-world file in any format, ask questions in plain English, and watch an AI-powered analyst automatically clean, visualize, and explain your data — all in one platform.
+
+- 📁 **Universal ingestion** — CSV, Excel, JSON, TSV, Parquet all supported
+- 🧹 **One-click cleaning** — intelligently resolves nulls, duplicates, and outliers
+- 📈 **6 interactive chart types** + correlation heatmap with drill-down controls
+- 🤖 **Conversational AI** — LLaMA 3.1-powered chat for natural language analysis queries
+- ⚡ **6 quick-action prompts** for instant common insights
+- 💾 **Export** cleaned datasets as ready-to-use CSV
+
+`FastAPI` `Pandas` `NumPy` `React 18` `Vite` `Chart.js` `Framer Motion` `Groq AI`
 
 ---
 
@@ -228,8 +207,6 @@ Proves a well-architected SQL schema can handle the full lifecycle of sentiment 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasitha-Voruganti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Voruganti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hasitha-Voruganti&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
@@ -240,13 +217,13 @@ Proves a well-architected SQL schema can handle the full lifecycle of sentiment 
 
 <div align="center">
 
-Always open to interesting problems, research discussions, and open-source collaborations.  
+I'm always open to interesting problems, research discussions, and open-source collaborations.<br/>
 If you're building something ambitious in AI/ML — let's talk.
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasitha-voruganti-a7168a2b8)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasithavoruganti@gmail.com)
+[![Email](https://img.shields.io/badge/hasithavoruganti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasithavoruganti@gmail.com)
 
 <br/>
 
