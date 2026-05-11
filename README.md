@@ -12,15 +12,17 @@
 
 ---
 
-## 👋 Hi, I'm Hasitha
+## 👋 Hi, I'm Hasitha Voruganti
 
-I'm a Computer Science student from Hyderabad who loves building things that are actually useful — not just impressive on paper.
+I'm a Computer Science student from Hyderabad with a passion for building **intelligent, end-to-end software systems** — the kind that don't just look good in a demo, but actually solve real problems.
 
-My focus is on the full journey from raw data to real impact. That means designing **AI systems that reason and retrieve**, training **ML models that explain their decisions**, writing **SQL that extracts intelligence from millions of records**, and shipping **full-stack applications** that make all of it accessible to real users.
+My work sits at the intersection of **AI Engineering**, **Machine Learning**, **Full Stack Development**, and **Data Analytics**. I enjoy taking an idea the full distance — from designing the database schema and training the ML model, to wiring up the backend API and shipping a clean, interactive frontend. Every layer matters to me.
 
-What gets me excited is when multiple disciplines collide — when a well-designed database powers a machine learning pipeline, which feeds a React dashboard, which sits on top of a FastAPI backend with an LLM agent running in the middle. I build across that entire stack, and I care deeply about every layer.
+Some of the things I've built include an **enterprise RAG agent** with hybrid search and self-correcting reasoning, an **AI-powered study platform** that adapts to your weak spots, and an **attrition prediction system** with real-time SHAP explainability — all production-grade, end-to-end.
 
-I'm currently deepening my expertise in **advanced Machine Learning and large language model systems**, and I'm always looking for interesting open-source problems to contribute to.
+**Currently exploring:**
+
+`Advanced RAG Architectures` &nbsp;·&nbsp; `AI Engineering` &nbsp;·&nbsp; `Explainable AI (XAI)` &nbsp;·&nbsp; `Enterprise Search Systems` &nbsp;·&nbsp; `Full Stack System Design`
 
 > 💡 *"Don't just analyze data — build systems that act on it."*
 
@@ -33,7 +35,7 @@ I'm currently deepening my expertise in **advanced Machine Learning and large la
 ### 🧠 [Corporate Brain — Agentic RAG Knowledge Assistant](https://github.com/Hasitha-Voruganti)
 > *Enterprise AI that reads your company's documents — and actually understands them*
 
-Most enterprise search is just keyword matching. Corporate Brain is an AI **agent** — it plans how to search, fuses semantic understanding with keyword precision, checks its own confidence, and rewrites its approach when uncertain. Every query is filtered through role-based access so employees only see what they're allowed to.
+Most enterprise search is just keyword matching. Corporate Brain is an AI **agent** — it plans how to search, fuses semantic understanding with keyword precision, checks its own confidence, and rewrites its approach when uncertain. Every query is filtered through role-based access so employees only see what they're authorised to.
 
 | Layer | What it does |
 |-------|-------------|
@@ -45,21 +47,6 @@ Most enterprise search is just keyword matching. Corporate Brain is an AI **agen
 | 📄 **Ingestion** | PDF, DOCX, XLSX, PPTX, TXT + OCR fallback via Tesseract |
 
 `FastAPI` `React` `Qdrant` `Elasticsearch` `PostgreSQL` `Redis` `Groq LLaMA 3.1` `Docker`
-
----
-
-### 📚 [AI Study Assistant](https://github.com/Hasitha-Voruganti)
-> *Your intelligent exam companion — upload, ask, quiz, master*
-
-Transforms static PDFs into an active, adaptive learning experience. The AI doesn't just answer questions — it finds your weak spots and trains you on them before your exam does.
-
-- 🤖 **Contextual Q&A** — accurate answers sourced directly from your uploaded documents
-- 📝 **Smart quiz engine** — auto-generated MCQs across Easy / Medium / Hard / Mixed difficulty
-- 🃏 **Flashcard system** — AI-created cards with Mastered vs Needs Revision tracking
-- 🎯 **Weakness detection** — flags topics where your quiz scores fall below 60%
-- 📊 **Progress dashboard** — score trends, subject breakdown, and streak tracking
-
-`React` `Node.js` `MongoDB` `Express` `TailwindCSS` `Groq LLaMA 3`
 
 ---
 
@@ -84,77 +71,40 @@ A production-grade ML platform that predicts employee attrition with automated m
 
 ---
 
+### 📚 [AI Study Assistant](https://github.com/Hasitha-Voruganti)
+> *Your intelligent exam companion — upload, ask, quiz, master*
+
+Transforms static PDFs into an active, adaptive learning experience. The AI doesn't just answer questions — it finds your weak spots and trains you on them before your exam does.
+
+- 🤖 **Contextual Q&A** — accurate answers sourced directly from your uploaded documents
+- 📝 **Smart quiz engine** — auto-generated MCQs across Easy / Medium / Hard / Mixed difficulty
+- 🃏 **Flashcard system** — AI-created cards with Mastered vs Needs Revision tracking
+- 🎯 **Weakness detection** — flags topics where your quiz scores fall below 60%
+- 📊 **Progress dashboard** — score trends, subject breakdown, and streak tracking
+
+`React` `Node.js` `MongoDB` `Express` `TailwindCSS` `Groq LLaMA 3`
+
+---
+
 ### 📊 [DataMind — AI Data Analyst](https://github.com/Hasitha-Voruganti)
 > *Upload any dataset. Ask questions. Get intelligence. No data science degree required.*
 
-DataMind makes data analysis accessible. Upload any messy file, describe what you want to know in plain English, and the platform automatically cleans your data, builds visualisations, and explains the results — no code required.
+DataMind makes data analysis accessible to everyone. Upload any messy file, describe what you want to know in plain English, and the platform automatically cleans, visualises, and explains your data — no code needed.
 
 - 📁 **Universal ingestion** — CSV, Excel, JSON, TSV, Parquet all supported
 - 🧹 **One-click cleaning** — resolves nulls, duplicates, and outliers automatically
 - 📈 **6 interactive chart types** + correlation heatmap with drill-down controls
 - 🤖 **Conversational AI** — LLaMA 3.1-powered chat for natural language data queries
-- ⚡ **6 quick-action prompts** for instant common insights
 - 💾 **Export** cleaned datasets as ready-to-use CSV
 
 `FastAPI` `Pandas` `NumPy` `React 18` `Vite` `Chart.js` `Framer Motion` `Groq AI`
 
 ---
 
-### ❤️ [Heart Disease Prediction App](https://github.com/Hasitha-Voruganti)
-> *Clinical-grade risk scoring — deployed and interactive*
-
-An SVM-powered web app that assesses heart disease likelihood from patient vitals, with a live visual risk gauge designed to be understood by anyone — not just clinicians.
-
-- SVM classifier on the Kaggle Heart Failure dataset (Age, Cholesterol, ECG, ST Slope & more)
-- Dynamic **Low / Medium / High** risk gauge updating in real time
-- Full clinical label descriptions written for non-specialist users
-
-`Python` `Scikit-learn (SVM)` `Streamlit` `Plotly` `Pandas`
-
----
-
-### 🏥 [AI Obesity Level Prediction System](https://github.com/Hasitha-Voruganti)
-> *Preventive healthcare intelligence — built in R, deployed to the cloud*
-
-An R-based ML web app that assesses obesity risk from lifestyle habits in real time. Deployed on **ShinyApps.io** for zero-install access.
-
-- Naive Bayes classifier trained on eating habits, activity levels, and physical metrics
-- Real-time BMI calculation with personalised health recommendations
-- Fully interactive Shiny dashboard with live prediction updates
-
-`R` `Shiny` `Naive Bayes` `ShinyApps.io`
-
----
-
-### 🛍️ [Customer Shopping Behavior Analysis](https://github.com/Hasitha-Voruganti)
-> *From raw transactions to boardroom-ready insights*
-
-A three-stage analytics pipeline across ~3,900 customer records — uncovering spending patterns, customer segments, and subscription behavior.
-
-`Python (Pandas)` → data cleaning & feature engineering → `MySQL` → SQL business analysis → `Power BI` → interactive dashboard
-
-`Pandas` `MySQL` `Power BI`
-
----
-
-### 👥 [HR Attrition Analytics Dashboard](https://github.com/Hasitha-Voruganti)
-> *Power BI deep-dive: who's leaving, why, and what to do about it*
-
-| Metric | Value |
-|--------|-------|
-| 👥 Total Employees | 961 |
-| 🚪 Attrition Rate | **13.84%** |
-| 💡 Key Finding | 110 of 133 leavers earn ≤ 5K — **low pay is the #1 retention lever** |
-| 📅 Risk Window | Year 1 attrition spike — critical onboarding gap identified |
-
-`Power BI` `DAX` `HR Analytics`
-
----
-
 ### 🔍 [Customer Review Analytics — Pure SQL](https://github.com/Hasitha-Voruganti)
 > *100K+ Amazon reviews → product intelligence — entirely inside MySQL*
 
-No Python. No ML frameworks. Just SQL, used seriously — covering the full pipeline from raw text ingestion to sentiment scoring, fake review detection, and business reporting.
+No Python. No ML frameworks. Just SQL used seriously — covering the full pipeline from raw text ingestion to sentiment scoring, fake review detection, and business reporting views.
 
 - **Custom 50-word sentiment lexicon** with -3 to +3 tiered scoring
 - **Fake review detection** via star-rating vs. text-sentiment mismatch flagging
@@ -207,15 +157,17 @@ No Python. No ML frameworks. Just SQL, used seriously — covering the full pipe
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hasitha-Voruganti&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Hasitha-Voruganti)
+<img src="https://github-readme-stats.vercel.app/api?username=Hasitha-Voruganti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05cd5&icon_color=58a6ff&text_color=c9d1d9&ring_color=e05cd5" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Voruganti&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05cd5&text_color=c9d1d9" />
 
-<br/>
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hasitha-Voruganti&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/Hasitha-Voruganti)
+<img src="https://streak-stats.demolab.com?user=Hasitha-Voruganti&theme=tokyonight&hide_border=true&background=0d1117&ring=e05cd5&fire=e05cd5&currStreakLabel=58a6ff" />
 
-<br/>
+<br/><br/>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Hasitha-Voruganti&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/Hasitha-Voruganti)
+<img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Voruganti&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
