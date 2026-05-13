@@ -32,7 +32,7 @@ Some of the things I've built include an **enterprise RAG agent** with hybrid se
 
 ---
 
-### 🧠 [Corporate Brain — Agentic RAG Knowledge Assistant](https://github.com/Hasitha-Voruganti)
+### 🧠 [Corporate Brain — Agentic RAG Knowledge Assistant](https://github.com/Hasitha-Voruganti/Agentic-RAG-Corporate-Brain)
 > *Enterprise AI that reads your company's documents — and actually understands them*
 
 Most enterprise search is just keyword matching. Corporate Brain is an AI **agent** — it plans how to search, fuses semantic understanding with keyword precision, checks its own confidence, and rewrites its approach when uncertain. Every query is filtered through role-based access so employees only see what they're authorised to.
@@ -50,7 +50,7 @@ Most enterprise search is just keyword matching. Corporate Brain is an AI **agen
 
 ---
 
-### 📉 [Employee Attrition Intelligence System](https://github.com/Hasitha-Voruganti)
+### 📉 [Employee Attrition Intelligence System](https://github.com/Hasitha-Voruganti/Employee-Attrition-Intelligence-System)
 > *Know who's about to quit — before they hand in their notice*
 
 A production-grade ML platform that predicts employee attrition with automated model selection, SHAP explainability, and a 7-page React analytics dashboard — trained on the real **IBM HR Analytics dataset (1,470 employees)**.
@@ -71,7 +71,7 @@ A production-grade ML platform that predicts employee attrition with automated m
 
 ---
 
-### 📚 [AI Study Assistant](https://github.com/Hasitha-Voruganti)
+### 📚 [AI Study Assistant](https://github.com/Hasitha-Voruganti/AI-Study-Assistant)
 > *Your intelligent exam companion — upload, ask, quiz, master*
 
 Transforms static PDFs into an active, adaptive learning experience. The AI doesn't just answer questions — it finds your weak spots and trains you on them before your exam does.
@@ -86,7 +86,7 @@ Transforms static PDFs into an active, adaptive learning experience. The AI does
 
 ---
 
-### 📊 [DataMind — AI Data Analyst](https://github.com/Hasitha-Voruganti)
+### 📊 [DataMind — AI Data Analyst](https://github.com/Hasitha-Voruganti/AI-Powered-Data-Analyst)
 > *Upload any dataset. Ask questions. Get intelligence. No data science degree required.*
 
 DataMind makes data analysis accessible to everyone. Upload any messy file, describe what you want to know in plain English, and the platform automatically cleans, visualises, and explains your data — no code needed.
@@ -101,7 +101,7 @@ DataMind makes data analysis accessible to everyone. Upload any messy file, desc
 
 ---
 
-### 🔍 [Customer Review Analytics — Pure SQL](https://github.com/Hasitha-Voruganti)
+### 🔍 [Customer Review Analytics — Pure SQL](https://github.com/Hasitha-Voruganti/Customer-review-analytics-sql)
 > *100K+ Amazon reviews → product intelligence — entirely inside MySQL*
 
 No Python. No ML frameworks. Just SQL used seriously — covering the full pipeline from raw text ingestion to sentiment scoring, fake review detection, and business reporting views.
